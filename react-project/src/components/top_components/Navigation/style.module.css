@@ -1,0 +1,20 @@
+.navigation {
+  display: flex;
+}
+.navigation li {
+  transition: 0.3s ease;
+  margin-top: 20px;
+}
+.navigation li:hover {
+  transition: 0.3s ease;
+}
+.navigation a {
+  display: block;
+  padding: 30px 50px;
+
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+.navigation a:hover {
+  background-color: #2f2f37;
+}

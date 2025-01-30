@@ -1,0 +1,12 @@
+.title-link__container {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h1 {
+  text-transform: uppercase;
+  font-size: 80px;
+  line-height: 109px;
+}
